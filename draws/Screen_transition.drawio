@@ -1,9 +1,12 @@
-<mxfile host="2d76dadc-8bce-47a9-bc6f-de950a0827a9" modified="2020-08-30T11:44:15.439Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.48.2 Chrome/78.0.3904.130 Electron/7.3.2 Safari/537.36" etag="FcsGfx4sWbCzXKTdzj2o" version="13.1.3">
+<mxfile host="2d76dadc-8bce-47a9-bc6f-de950a0827a9" modified="2020-08-30T11:56:11.199Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.48.2 Chrome/78.0.3904.130 Electron/7.3.2 Safari/537.36" etag="5ItCC07buvno_V5kEz5k" version="13.1.3">
     <diagram id="6hGFLwfOUW9BJ-s0fimq" name="Page-1">
         <mxGraphModel dx="738" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
+                <mxCell id="137" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;labelBackgroundColor=#FFCCE6;fillColor=#FFCCCC;gradientColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="984.38" y="370" width="138.75" height="260" as="geometry"/>
+                </mxCell>
                 <mxCell id="111" value="" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;shadow=1;glass=0;comic=0;gradientColor=none;dx=60;dy=40;" vertex="1" parent="1">
                     <mxGeometry x="100" y="950" width="490" height="670" as="geometry"/>
                 </mxCell>
@@ -124,7 +127,7 @@
                     <mxGeometry x="80" y="510" width="140" height="50" as="geometry"/>
                 </mxCell>
                 <mxCell id="84" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;gradientColor=none;" vertex="1" parent="1">
-                    <mxGeometry x="683.25" y="870" width="445" height="750" as="geometry"/>
+                    <mxGeometry x="678.13" y="870" width="445" height="750" as="geometry"/>
                 </mxCell>
                 <mxCell id="85" value="pt_karte" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;gradientColor=none;" vertex="1" parent="1">
                     <mxGeometry x="715" y="890" width="80" height="40" as="geometry"/>
@@ -189,8 +192,17 @@
                 <mxCell id="132" value="X-ray" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
                     <mxGeometry x="850" y="1555" width="15" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="136" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width: 100% ; height: 100% ; border-collapse: collapse&quot;&gt;&lt;tbody&gt;&lt;tr style=&quot;color: rgb(255, 255, 255); border: 1px solid rgb(152, 191, 33);&quot;&gt;&lt;th align=&quot;left&quot;&gt;Title 1&lt;/th&gt;&lt;/tr&gt;&lt;tr style=&quot;border: 1px solid #98bf21&quot;&gt;&lt;td&gt;Value 1&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border: 1px solid rgb(152, 191, 33);&quot;&gt;&lt;td&gt;Value 4&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border: 1px solid #98bf21&quot;&gt;&lt;td&gt;Value 7&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border: 1px solid rgb(152, 191, 33);&quot;&gt;&lt;td&gt;Value 10&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;overflow=fill;rounded=0;fillColor=#ffffff;labelBackgroundColor=#FF99CC;" vertex="1" parent="1">
-                    <mxGeometry x="987.5" y="530" width="105" height="160" as="geometry"/>
+                <mxCell id="136" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width: 100% ; height: 100% ; border-collapse: collapse&quot;&gt;&lt;tbody&gt;&lt;tr style=&quot;color: rgb(255 , 255 , 255) ; border: 1px solid rgb(152 , 191 , 33)&quot;&gt;&lt;th align=&quot;left&quot;&gt;&lt;span style=&quot;&quot;&gt;time&lt;/span&gt;&lt;/th&gt;&lt;/tr&gt;&lt;tr style=&quot;border: 1px solid #98bf21&quot;&gt;&lt;td&gt;&lt;span style=&quot;&quot;&gt;test&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border: 1px solid rgb(152 , 191 , 33)&quot;&gt;&lt;td&gt;&lt;span style=&quot;&quot;&gt;medicine&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border: 1px solid #98bf21&quot;&gt;&lt;td&gt;&lt;span style=&quot;&quot;&gt;patient_id&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;overflow=fill;rounded=0;fillColor=#FFCCCC;labelBackgroundColor=#FFCCE6;strokeColor=#36393d;" vertex="1" parent="1">
+                    <mxGeometry x="1007.5" y="420" width="92.5" height="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="141" value="create&lt;br&gt;edit&lt;br&gt;show" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;labelBackgroundColor=#FFFFFF;fillColor=#FFFFFF;gradientColor=none;direction=north;" vertex="1" parent="1">
+                    <mxGeometry x="970" y="660" width="80" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="143" value="" style="endArrow=classic;html=1;exitX=0.64;exitY=-0.033;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="129" target="137">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="730" y="1220" as="sourcePoint"/>
+                        <mxPoint x="780" y="1170" as="targetPoint"/>
+                    </mxGeometry>
                 </mxCell>
             </root>
         </mxGraphModel>
